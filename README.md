@@ -94,6 +94,6 @@
 - 평균 클릭수가 1~4회를 벗어나는 것은 화면에서 적정한 답을 찾지 못하는 것으로 해석할 수 있음. 해당 학생에게 선수 과목을 추천할 것을 제안함
 - 평가물 제출 기한에 임박했을 때 제출일을 상기시키는 푸쉬알람을 보낼 것을 제안함
 
-## 레퍼런스
+## 데이터 출처
 
 - https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad
