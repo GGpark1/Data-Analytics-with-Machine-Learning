@@ -1,4 +1,4 @@
-# Open-University-Learning-Analytics
+# Remind-learning-schedule-with-ML
 
 ## 프로젝트 목차
 - [프로젝트 배경](#프로젝트-배경)
