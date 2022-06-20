@@ -51,7 +51,7 @@
 <img width="884" alt="Screen Shot 2022-04-28 at 9 23 07 PM" src="https://user-images.githubusercontent.com/93904398/165751211-b1919fb3-fac5-4433-b968-023bf7a31708.png">
 
 - 테스트한 모델 모두 베이스라인(0.68) 이상의 성능을 보임
-- 네 개의 모델 중 테스트 데이터와 학습 데이터의 차이가 가장 적은 RandomForest(adjust) 모델을 분석에 사용함
+- 네 개의 모델 중 일반화 성능이 뛰어나다고 알려진 RandomForest(adjust) 모델을 분석에 사용함
 
 ## 결과 시각화 및 해석
 
